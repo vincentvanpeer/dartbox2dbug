@@ -1,0 +1,5 @@
+name: box2dbug
+version: 0.0.1
+description: A simple console application.
+dependencies:
+  box2d: 0.3.0
